@@ -2,6 +2,7 @@ class Solution {
 public:
     string longestPalindrome(string s) 
     {
+        //Manacher's Algo
         string polindrome;
         int strLen = (2*s.size()) + 3;
         char* newStr = new char[strLen];
