@@ -54,4 +54,4 @@ Each solution is located in the `solutions` directory, with subdirectories named
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the The Unlicense. See the `LICENSE` file for more details.
