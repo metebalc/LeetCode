@@ -1,44 +1,57 @@
-LeetCode Solutions to:
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-135. Candy
-8. String to Integer (atoi)
-767. Reorganize String
-12. Integer to Roman
-13. Roman to Integer
-273. Integer to English Words
-146. LRU Cache
-529. Minesweeper
-20. Valid Parentheses
-23. Merge k Sorted Lists
-155. Min Stack
-543. Diameter of Binary Tree
-289. Game of Life
-417. Pacific Atlantic Water Flow
-36. Valid Sudoku
-39. Combination Sum
-295. Find Median from Data Stream
-300. Longest Increasing Subsequence
-46. Permutations
-56. Merge Intervals
-61. Rotate List
-64. Minimum Path Sum
-200. Number of Islands
-75. Sort Colors
-79. Word Search
-207. Course Schedule
-210. Course Schedule II
-211. Design Add and Search Words Data Structure
-212. Word Search II
-93. Restore IP Addresses
-98. Validate Binary Search Tree
-100. Same Tree
-101. Symmetric Tree
-102. Binary Tree Level Order Traversal
-109. Convert Sorted List to Binary Search Tree
-239. Sliding Window Maximum
-113. Path Sum II
-116. Populating Next Right Pointers in Each Node
-121. Best Time to Buy and Sell Stock
-126. Word Ladder II
-127. Word Ladder
+# LeetCode Solutions
+
+This repository contains solutions to LeetCode problems.
+
+## List of Problems
+
+1. Median of Two Sorted Arrays  
+2. Longest Palindromic Substring  
+3. Candy  
+4. String to Integer (atoi)  
+5. Reorganize String  
+6. Integer to Roman  
+7. Roman to Integer  
+8. Integer to English Words  
+9. LRU Cache  
+10. Minesweeper  
+11. Valid Parentheses  
+12. Merge k Sorted Lists  
+13. Min Stack  
+14. Diameter of Binary Tree  
+15. Game of Life  
+16. Pacific Atlantic Water Flow  
+17. Valid Sudoku  
+18. Combination Sum  
+19. Find Median from Data Stream  
+20. Longest Increasing Subsequence  
+21. Permutations  
+22. Merge Intervals  
+23. Rotate List  
+24. Minimum Path Sum  
+25. Number of Islands  
+26. Sort Colors  
+27. Word Search  
+28. Course Schedule  
+29. Course Schedule II  
+30. Design Add and Search Words Data Structure  
+31. Word Search II  
+32. Restore IP Addresses  
+33. Validate Binary Search Tree  
+34. Same Tree  
+35. Symmetric Tree  
+36. Binary Tree Level Order Traversal  
+37. Convert Sorted List to Binary Search Tree  
+38. Sliding Window Maximum  
+39. Path Sum II  
+40. Populating Next Right Pointers in Each Node  
+41. Best Time to Buy and Sell Stock  
+42. Word Ladder II  
+43. Word Ladder  
+
+## How to Use
+
+Each solution is located in the `solutions` directory, with subdirectories named according to the problem number. For example, the solution for "Median of Two Sorted Arrays" can be found in `solutions/1_median_of_two_sorted_arrays/`.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
